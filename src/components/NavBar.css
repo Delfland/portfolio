@@ -1,0 +1,13 @@
+ul {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 2rem;
+    font-size: 1.5em;
+}
+
+a {
+    text-decoration: none;
+    color:#ffdac6;
+}
